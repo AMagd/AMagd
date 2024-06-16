@@ -1,6 +1,6 @@
 ### **Hi there** 👋 🇪🇬
 
-**🚀 Seeking new opportunities in AI, ML, and Computer Vision. Connect with me to explore possibilities!**
+**🚀 Seeking new job opportunities in AI, ML, and Computer Vision. Connect with me to explore possibilities!**
 
 I am currently a research intern at Johns Hopkins University CCVL Lab, focusing on generative models and reinforcement learning for medical images.
 
