@@ -8,7 +8,6 @@ Previously, I was a researcher at KAIST's 🇰🇷 School of Computing  in the M
 
 I am passionate about solving challenging problems in Artificial Intelligence, particularly in the fields of:
 - Generative Models
-- Artificial Intelligence
 - Computer Vision
 - Reinforcement Learning 
 
