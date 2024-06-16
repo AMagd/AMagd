@@ -6,7 +6,7 @@ Previously, I was a researcher at KAIST's School of Computing in the Machine Lea
 
 I love working on challenging problems and am interested in Artificial Intelligence, especially reinforcement learning, generative models, and computer vision.
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&locale=en" alt="your_github_username" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AMagd&show_icons=true&locale=en" alt="AMagd" /></p>
 
 #### Programming Skills
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
