@@ -35,5 +35,5 @@ I am passionate about solving challenging problems in Artificial Intelligence, p
 📫 How to reach me:
 <a href="mailto:a.magd@alumni.kaist.ac.kr"><img align="center" src="https://img.icons8.com/?size=100&id=LPcVDft9Isqt&format=png&color=000000" alt="Email" width="30" height="30" style="vertical-align: middle;"/></a>
 <a href="https://x.com/a7md_magd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmed-magd-3278811a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-magd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/your_instagram_handle/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
