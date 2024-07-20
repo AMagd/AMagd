@@ -37,3 +37,6 @@ I am passionate about solving challenging problems in Artificial Intelligence, p
 <a href="https://x.com/a7md_magd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ahmed-magd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://www.instagram.com/a7md_magd1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+
+![](https://komarev.com/ghpvc/?username=AMagd&label=PROFILE+VIEWS)
+
