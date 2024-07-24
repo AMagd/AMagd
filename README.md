@@ -1,7 +1,5 @@
 ### **Hi there** 👋 🇪🇬
 
-**🚀 Seeking new job opportunities in AI, ML, and Computer Vision. Connect with me to explore possibilities!**
-
 I am currently a research intern at Johns Hopkins University CCVL Lab, focusing on generative models, computer vision and reinforcement learning for medical images.
 
 Previously, I was a researcher at KAIST's 🇰🇷 School of Computing  in the Machine Learning and Mind Lab led by Professor Sungjin Ahn. During my time there, I worked extensively on reinforcement learning and generative models. I hold an MS in Robotics from KAIST, where I researched machine learning, diffusion models and computer vision for self-driving cars under Professor Dongsuk Kum.
