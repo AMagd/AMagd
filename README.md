@@ -30,11 +30,5 @@ I am passionate about solving challenging problems in Artificial Intelligence, p
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40"/> </a>
 
-📫 How to reach me:
-<a href="mailto:a.magd@alumni.kaist.ac.kr"><img align="center" src="https://img.icons8.com/?size=100&id=LPcVDft9Isqt&format=png&color=000000" alt="Email" width="30" height="30" style="vertical-align: middle;"/></a>
-<a href="https://x.com/a7md_magd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmed-magd/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/a7md_magd1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-
 ![](https://komarev.com/ghpvc/?username=AMagd&label=PROFILE+VIEWS)
 
