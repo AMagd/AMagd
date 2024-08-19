@@ -30,5 +30,3 @@ I am passionate about solving challenging problems in Artificial Intelligence, p
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
 <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros" width="40" height="40"/> </a>
 
-![](https://komarev.com/ghpvc/?username=AMagd&label=PROFILE+VIEWS)
-
