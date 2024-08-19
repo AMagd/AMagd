@@ -1,4 +1,4 @@
-### **Hi there** 👋 🇪🇬
+### **Hi there** 👋 
 
 I am currently a research intern at Johns Hopkins University CCVL Lab, focusing on generative models, computer vision and reinforcement learning for medical images.
 
